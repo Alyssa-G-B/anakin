@@ -8,9 +8,10 @@ html, body{
     padding: 0;
 }
 header{
+    background-image: url(../img/stars-background.avif);
     text-align: center;
     color: white;
-    background-color: rgb(8, 11, 65);
+    /* background-color: rgb(8, 11, 65); */
     padding: 20px;
 }
 header img{
